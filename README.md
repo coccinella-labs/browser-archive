@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/basebin/browser-archive/main/.github/assets/thumbnail.png" alt="browser-archive" width="100%">
+</p>
+
 # Browser
 
 Flutter desktop web browser with tabs, bookmarks, history.
