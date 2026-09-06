@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/basebin/browser-archive/main/.github/assets/thumbnail.png" alt="browser-archive" width="100%">
+  <img src="https://raw.githubusercontent.com/Coccinella-Labs/browser-archive/main/.github/assets/thumbnail.png" alt="browser-archive" width="100%">
 </p>
 
 # Browser
