@@ -9,7 +9,7 @@ Flutter desktop web browser with tabs, bookmarks, history.
 ## Install
 
 ```bash
-git clone https://github.com/bniladridas/browser.git
+git clone https://github.com/coccinella-labs/browser.git
 cd browser
 flutter pub get
 cp .env.example .env  # Fill in Firebase credentials from your Firebase project
