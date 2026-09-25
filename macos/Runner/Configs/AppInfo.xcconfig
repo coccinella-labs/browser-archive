@@ -13,7 +13,7 @@ APP_BUNDLE_ID = com.example.browser
 PRODUCT_BUNDLE_IDENTIFIER = $(APP_BUNDLE_ID)
 
 // The copyright displayed in application information
-PRODUCT_COPYRIGHT = Copyright © 2026 bniladridas. All rights reserved.
+PRODUCT_COPYRIGHT = Copyright © 2026 Coccinella Labs. All rights reserved.
 
 // Include CocoaPods configuration for the current build configuration
 #include? "../../Pods/Target Support Files/Pods-Runner/Pods-Runner.$(CONFIGURATION:lower).xcconfig"
